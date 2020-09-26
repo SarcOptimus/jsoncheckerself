@@ -2,10 +2,16 @@
   "name": "jsoncheckerself",
   "version": "1.0.0",
   "description": "test",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start" : "node server.js"
  },
+ "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
+  "dependencies": {
+    "json-server": "^0.16.1"
+  },
  "author": "Sarbartha",
   "license": "ISC",
   "repository": {
