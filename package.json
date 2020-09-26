@@ -1,3 +1,15 @@
-"scripts": {
+{
+  "name": "jsoncheckerself",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
     "start" : "node server.js"
+ }
+ "author": "Sarbartha",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "test"
+  }
  }
