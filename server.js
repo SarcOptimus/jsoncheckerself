@@ -5,6 +5,6 @@ var server = http.Server();
 
 server.listen(port,function(){
   
-  consol.log("Server is running");
+  console.log("Server is running");
 
 });
